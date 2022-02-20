@@ -35,7 +35,7 @@ In this bar graph, we see a trend in goals and number of successful campaigns be
 
 - Note that across all years, approximately 60% of successful campaigns launched during May - July had a goal between 1-5K.
 - An average of 14% of the successful campaigns had a goal of 5k-10k.
-- Only 6% had a budget of 10-14K (similar to Louise's goal)
+- Only 6% had a goal of 10-14K (similar to Louise's goal)
 
 ---
 # Results
@@ -64,13 +64,13 @@ Based on the "Goals of Successful Campaigns 2010-2017" chart, we can see a trend
 ---
 
 ### - Conclusion - 
-Louise came close to her goal of the 10-12k range. If Louise would have launched a campaign with a goal under 10K, she would have had an extra 10% chance of having a successful outcome.
+Louise came close to her goal of the 10-12k range. If Louise would have launched her campaign with a goal under 10K, she would have had an extra 10% chance of having a successful outcome.
 
 ## Challenges and Difficulties Encountered
 ---
 
 ### Limitations of the dataset
-One thing we have limited insight on is how actively is the campaign being promoted?
+One thing we have limited insight on is how actively was the campaign being promoted?
 - Is this a major factor in driving the outcome of a campaign? If so, by how much?
 
 ### Recommendations
@@ -82,4 +82,4 @@ Louise had mentioned 5 plays that inspired her during the Edinburg Festival Frin
 - Jestia and Raedon
 - The Hitchhiker's Guide to the Family
 
-Each of these plays had a goal between 1k-5k. They all launched in Jun/July. Louise should consider adjusting her goal lower if she wants a significantly much higher chance of having a successful outcome. She should look into implementing ideas from the plays that inspired her initially. If Louise launches the next campaign during the most active months of the year (May-July), she needs to make sure to leverage all her social platforms, and promote her campaign as much as possible. There will be more completion for funding.
+Each of these plays had a goal between 1k-5k. They all launched in Jun/July. Louise should consider adjusting her goal lower if she wants a significantly much higher chance of having a successful outcome. She should look into implementing ideas from the plays that inspired her initially. If Louise launches the next campaign during the most active months of the year (May-July), she needs to make sure to leverage all her social platforms, and promote her campaign as much as possible. There will be more competition for funding.
